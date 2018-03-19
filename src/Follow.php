@@ -13,7 +13,7 @@ namespace Overtrue\LaravelFollow;
 
 use Carbon\Carbon;
 use Illuminate\Database\Eloquent\Model;
-use Illuminate\Database\Eloquent\Relations\MorphToMany;
+use October\Rain\Database\Relations\MorphToMany;
 use stdClass;
 
 /**
