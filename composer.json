@@ -1,5 +1,5 @@
 {
-    "name": "overtrue/laravel-follow",
+    "name": "raomingchao/oc-laravel-follow",
     "description": "Laravel 5 User Based System",
     "require": {
         "php": ">=5.5.9"
